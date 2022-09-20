@@ -1,0 +1,37 @@
+table, th, td{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th{
+  padding: 20px;
+  background-color: white;
+}
+tr{
+  background-color: #53bae0;
+}
+tr:hover{
+  background-color: #00f420;
+}
+td:hover{
+  background-color: orange;
+}
+
+div > p{
+  background-color: yellow;
+}
+div > h2{
+  background-color: pink;
+}
+span > p{
+  color: brown;
+}
+div > span{
+  color: green;
+}
+
+
+#display{
+  background-color: yellow;
+  display: inline-block;
+  height: 100px;
+}

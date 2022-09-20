@@ -1,0 +1,39 @@
+p{
+  text-transform: lowercase;
+  text-indent: 80px;
+  line-height: 40px;
+  word-spacing: 20px;
+  font-family: fantasy;
+  color: white;
+  background-color: blue;
+}
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  font-family: sans-serif;
+  color: red;
+  background-color: green;
+}
+ol{
+  border: 10px solid green;
+  color: black;
+  background-color: pink;
+}
+li{
+  background-color: yellow;
+}
+body{
+  background-color: lightblue;
+}
+img{
+  border: 5px solid green;
+  width: 150px;
+}
+table, td, th{
+  border: 5px dotted red;
+}
+a{
+  text-shadow: 2px 2px red;
+  text-decoration: underline;
+  text-decoration-color: red;
+}

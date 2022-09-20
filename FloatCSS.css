@@ -1,0 +1,42 @@
+img{
+  width: 30%;
+}
+.leftImg{
+  float: left;
+}
+h1{
+  height: 30px;
+  width: 800px;
+  background-color: blue;
+  position: relative;
+  left: 100px;
+}
+.smallBox{
+  background-color: purple;
+  height: 50px;
+  width: 100px;
+  position: relative;
+  left: 50px;
+}
+.mediumBox{
+  background-color: orange;
+  height: 50px;
+  width: 150px;
+  position: relative;
+  left: 190px;
+}
+.largeBox{
+  background-color: green;
+  height: 100px;
+  width: 190px;
+  position: relative;
+  left: 250px;
+  top: 60px
+}
+
+p{
+  border: 5px solid red;
+  margin: 50px;
+  padding: 40px;
+
+}

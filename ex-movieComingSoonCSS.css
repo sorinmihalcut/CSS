@@ -1,0 +1,29 @@
+body{
+  background-color: grey;
+}
+h1{
+  font-family: monospace;
+  text-align: center;
+  color: red;
+  text-shadow: 2px 2px black;
+}
+.movieImgs{
+  background-color: pink;
+  position: relative;
+  left: 100px;
+  width: 550px;
+}
+
+#imgFormat{
+  width: 200px;
+  height: 200px;
+  padding: 30px;
+
+}
+.copyright{
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  background-color: lightblue;
+  color: red;
+}
